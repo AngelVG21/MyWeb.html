@@ -1,0 +1,109 @@
+2023-10-01 17:47:21.508 [info] 
+
+
+
+
+2023-10-01 17:47:21.541 [info] Extension host agent started.
+2023-10-01 17:47:22.016 [info] [127.0.0.1][2ccea16f][ManagementConnection] New connection established.
+2023-10-01 17:47:22.795 [info] [127.0.0.1][fd4a5914][ExtensionHostConnection] New connection established.
+2023-10-01 17:47:22.811 [info] [127.0.0.1][fd4a5914][ExtensionHostConnection] <4986> Launched Extension Host Process.
+2023-10-01 17:47:44.266 [info] [127.0.0.1][fd4a5914][ExtensionHostConnection] <4986> [0mGET /favicon.ico [33m404[0m 4.106 ms - 150[0m
+
+2023-10-01 17:49:22.137 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-10-01 17:49:22.178 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2023-10-01 17:49:22.651 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-10-01 17:49:25.820 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-10-01 17:49:26.217 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-10-01 17:49:35.391 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-10-01 17:49:36.297 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-10-01 17:49:40.919 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-10-01 17:49:41.315 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-10-01 17:49:51.072 [info] Getting Manifest... ritwickdey.liveserver
+2023-10-01 17:49:51.252 [info] Installing extension: ritwickdey.liveserver
+2023-10-01 17:49:52.193 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2023-10-01 17:49:52.203 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2023-10-01 17:49:52.222 [info] Extension installed successfully: ritwickdey.liveserver
+2023-10-01 17:50:03.461 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-10-01 17:50:03.488 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2023-10-01 17:50:04.235 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-10-01 17:50:06.530 [info] Getting Manifest... ritwickdey.liveserver
+2023-10-01 17:50:06.586 [info] Installing extension: ritwickdey.liveserver
+2023-10-01 17:50:07.644 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2023-10-01 17:50:07.648 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2023-10-01 17:50:07.663 [info] Extension installed successfully: ritwickdey.liveserver
+2023-10-01 17:50:13.348 [info] [127.0.0.1][2ccea16f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-01 17:50:13.350 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-01 17:50:13.353 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-01 17:50:13.353 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-01 17:50:13.354 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-01 17:50:13.354 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-01 17:50:13.354 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-01 17:50:13.540 [info] [127.0.0.1][fd4a5914][ExtensionHostConnection] <4986> Extension Host Process exited with code: 0, signal: null.
+2023-10-01 17:50:19.524 [info] [127.0.0.1][3c38f9d2][ManagementConnection] New connection established.
+2023-10-01 17:50:20.706 [info] [127.0.0.1][97e8b341][ExtensionHostConnection] New connection established.
+2023-10-01 17:50:20.820 [info] [127.0.0.1][97e8b341][ExtensionHostConnection] <5430> Launched Extension Host Process.
+2023-10-01 18:17:44.282 [info] [127.0.0.1][3c38f9d2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-01 18:17:44.293 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-01 18:17:44.295 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+2023-10-01 18:17:44.296 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+2023-10-01 18:17:44.296 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+2023-10-01 18:17:44.296 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+2023-10-01 18:17:44.296 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+2023-10-01 18:17:44.593 [info] [127.0.0.1][97e8b341][ExtensionHostConnection] <5430> Extension Host Process exited with code: 0, signal: null.
